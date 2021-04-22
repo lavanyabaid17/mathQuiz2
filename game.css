@@ -1,0 +1,23 @@
+body
+{
+	background: #ff0a54;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: #ffea00;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}  
+
+	
+#P1_name , #P2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#N1_input, #N2_input
+{
+	width: 60%;
+}
